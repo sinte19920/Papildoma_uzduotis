@@ -1,5 +1,11 @@
 # Papildoma_uzduotis
 
+## std::string konteinerių / asociatyvių konteinerių naudojimas
+
+Programa skirta analizuoti tekstą iš įvesto .txt failo. Žodžiai, kurie pasikartoja yra išrašomi į "rezultatai.txt" failą, taip pat išrašomi ir URL adresai, tik kad į "rezultataiURL.txt".
+Tame pačiame "rezultatai.txt" faile galima pamatyti cross-reference lentelę, kurioje nurodomos eilutės, kuriose žodžiai pasikartoja.
+
+
 ## Norėdami naudoti programą, turite atlikti šiuos žingsnius:
 
 1. Atsisiųskite programos kodą ir įsitikinkite, kad jums yra įdiegtas GNU C++ kompiliatorius (pvz., g++). Jei jums reikia įdiegti kompiliatorių, galite tai padaryti vadovaujantis savo operacinės sistemos instrukcijomis.
