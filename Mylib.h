@@ -1,0 +1,31 @@
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <string>
+#include <vector>
+#include <map>
+#include <algorithm>
+#include <iomanip>
+#include <regex>
+
+
+using std::cin;
+using std::copy;
+using std::cout;
+using std::endl;
+using std::getline;
+using std::ifstream;
+using std::left;
+using std::right;
+using std::ofstream;
+using std::setw;
+using std::sort;
+using std::string;
+using std::vector;
+using std::istringstream;
+using std::max;
+using std::regex;
+using std::map;
+using std::pair;
+using std::stringstream;
+using std::runtime_error;
